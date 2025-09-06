@@ -1,6 +1,7 @@
 # Student Management 
 import random
-import time 
+import time
+
 # implemention inheritance in v4 
 
 # College/Institute class(master)---> Student class (attributes/methods) ---> Course class (attributes/methods) ---> Person class 
@@ -116,9 +117,6 @@ class Student(College):
         }
     
 
-
-# student = Student("Alice",31,21,"Ameerpet","ou",['M.tech','B.tech'])
-# print(student.get_college_details())
 
 
 
